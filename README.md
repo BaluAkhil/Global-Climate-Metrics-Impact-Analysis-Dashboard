@@ -20,7 +20,7 @@ It provides an interactive platform to analyze environmental patterns and track 
 - **Mapbox** (geographical mapping)
 
 ## 📷 Dashboard Preview
-![Climate Change Dashboard](images/dashboard_screenshot.png)
+![Climate Change Dashboard](https://github.com/BaluAkhil/Global-Climate-Metrics-Impact-Analysis-Dashboard/blob/main/Dashboard%201.png)
 
 ## 🔍 Features
 
